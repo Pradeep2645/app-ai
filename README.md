@@ -85,4 +85,4 @@ stop_btn = tk.Button(root, text="Stop", command=stop_assistant, width=20, bg="re
 stop_btn.pack(pady=5)
 
 root.mainloop()
-# app-ai
+
